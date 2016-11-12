@@ -1,0 +1,5 @@
+/* Styles go here */
+
+.completed {
+  text-decoration: line-through;
+}
